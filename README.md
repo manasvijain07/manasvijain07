@@ -1,16 +1,21 @@
-### Hi there 👋
+Hi, I am Manasvi 👋
 
-<!--
-**manasvijain07/manasvijain07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Results-oriented Software Developer with 4+ years of experience in application development and backend technologies. 
+I have a passion for designing intuitive user interfaces and solving challenging problems by building scalable solutions.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning about cloud technologies AWS, Azure and Kubernetes
+- 👯 I’m looking to collaborate on ... learning new technologies 
+- 💬 Ask me about... Anything.
+- 😄  I would love to help you
+- ⚡ Fun fact: ...I love to dance and cook in my free time
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+TECHNICAL SKILLS -
+• Programming Languages and Databases: Python, C, C++, Java, MySQL, DQL, Oracle, PostgreSQL, SQL
+• Web Development: HTML, CSS, JavaScript, REST API Framework, Java Vaadin, Spring Boot, MVC Architecture
+• Operating System: Windows, Linux, Unix
+• Virtualization: Docker
+• Version Control Systems: GitHub (Git), Bitbucket, SourceTree
+
+Connect with me on - 
+[LinkedIn]  www.linkedin.com/in/manasvijain07
+[Email]     manasvijain07@gmail.com
