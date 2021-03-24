@@ -17,5 +17,5 @@ TECHNICAL SKILLS -
 - Version Control Systems: GitHub (Git), Bitbucket, SourceTree
 
 Connect with me on - 
-- [LinkedIn]  www.linkedin.com/in/manasvijain07
+- ![alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw1wnVqM1tgBPPjNyIG-T0-g&ust=1616654985992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiCsqKryO8CFQAAAAAdAAAAABAI)  www.linkedin.com/in/manasvijain07
 - [Email]     manasvijain07@gmail.com
