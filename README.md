@@ -10,12 +10,12 @@ I have a passion for designing intuitive user interfaces and solving challenging
 - ⚡ Fun fact: ...I love to dance and cook in my free time
 
 TECHNICAL SKILLS -
-• Programming Languages and Databases: Python, C, C++, Java, MySQL, DQL, Oracle, PostgreSQL, SQL
-• Web Development: HTML, CSS, JavaScript, REST API Framework, Java Vaadin, Spring Boot, MVC Architecture
-• Operating System: Windows, Linux, Unix
-• Virtualization: Docker
-• Version Control Systems: GitHub (Git), Bitbucket, SourceTree
+- Programming Languages and Databases: Python, C, C++, Java, MySQL, DQL, Oracle, PostgreSQL, SQL
+- Web Development: HTML, CSS, JavaScript, REST API Framework, Java Vaadin, Spring Boot, MVC Architecture
+- Operating System: Windows, Linux, Unix
+- Virtualization: Docker
+- Version Control Systems: GitHub (Git), Bitbucket, SourceTree
 
 Connect with me on - 
-[LinkedIn]  www.linkedin.com/in/manasvijain07
-[Email]     manasvijain07@gmail.com
+- [LinkedIn]  www.linkedin.com/in/manasvijain07
+- [Email]     manasvijain07@gmail.com
