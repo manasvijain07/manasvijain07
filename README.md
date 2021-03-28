@@ -16,7 +16,7 @@ TECHNICAL SKILLS -
 - Containerization: Docker, Kubernetes
 - Version Control Systems: GitHub (Git), Bitbucket, SourceTree
 - Tools/Framework: Jupyter Notebooks, Sharepoint, JIRA, Apache Maven, Powershell, JUnit, Mockito, Scrum, DOM
-- Cloud Services: AWS
+- Cloud Services: AWS (EC2, Elastic load balancer, EBS, EFS)
 
 Connect with me on - 
 - [LinkedIn]  www.linkedin.com/in/manasvijain07
