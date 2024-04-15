@@ -1,6 +1,6 @@
 Hi, I am Manasvi 👋
 
-Results-oriented Software Developer with 4+ years of experience in application development and backend technologies. 
+Results-oriented Software Developer with 8 years of experience in application development and backend technologies. 
 I have a passion for designing intuitive user interfaces and solving challenging problems by building scalable solutions.
 
 - 🌱 I’m currently learning about cloud technologies AWS, Azure and Kubernetes
